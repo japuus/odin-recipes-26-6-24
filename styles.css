@@ -1,0 +1,32 @@
+/*this file contains styles for recipes */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
+.directions {
+    background-color: rgb(73, 73, 247);
+}
+
+ul {
+    background-color: lightgreen;
+}
+
+.ingredients {
+    background-color: rgb(79, 187, 79);
+}
+
+ol {
+    background-color: aqua;
+}
+
+.sourcetext {
+    text-align: center;
+}
